@@ -4,6 +4,10 @@
 This is a digital forensics Capture the flag(CTF). CTF is found in a Start.me website, https://startme.stark4n6.com. Forensic image found in their evidance locker. This CTF was run in a virtual environment
 <br />
 
+<h2>Scenario</h2>
+
+https://github.com/RedHatPentester/DIGITAL-FORENSICS-CTF-LAB/tree/main/Ransomware%20Case
+
 <h2>Tools Used</h2>
 
 - <b>Autopsy</b> 
