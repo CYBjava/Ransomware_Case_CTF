@@ -24,5 +24,6 @@ https://github.com/RedHatPentester/DIGITAL-FORENSICS-CTF-LAB/tree/main/Ransomwar
 
 <h2>Notes:</h2>
 
+https://github.com/CYBjava/Ransomware_Case_CTF/blob/main/Alvarez_Ransomeware_Case_CTF_Notes.docx
 
 
